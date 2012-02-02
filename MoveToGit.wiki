@@ -1,0 +1,9 @@
+#summary Moved the source repo from Subversion to git.
+
+= Introduction =
+
+I'm a believer in git so the source repository has been moved there.  Used the instructions at ConvertingSvnToGit on the Google code support wiki.
+
+= Details =
+
+Did a top-skim import.  The svn repo was fairly new and little-changed since inception, so there was no point in importing full history.
